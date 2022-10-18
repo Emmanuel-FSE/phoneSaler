@@ -1,0 +1,17 @@
+/* global classes */
+
+button, button:focus {
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+.lapi-simu {
+    width: 1920px; 
+    height: 802px;
+    object-fit: cover;   
+}
+
+.homeLink {
+    text-decoration: none;
+    color: inherit;
+}
